@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_train</folder>
+	<filename>KakaoTalk_20190122_150356587.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\new_train\KakaoTalk_20190122_150356587.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>196</ymin>
+			<xmax>588</xmax>
+			<ymax>910</ymax>
+		</bndbox>
+	</object>
+</annotation>
