@@ -69,6 +69,7 @@ Snack-Perception/
 
 
 # 📷 실행 화면
+<img width="484" alt="과자 인식 실행 결과 예시" src="https://github.com/user-attachments/assets/507b263c-5724-4f6f-a795-042c462ce4ec" />
 
 과자가 인식 되면 '이 제품은 ~~ 입니다.'라는 음성 메세지가 출력됨
 
