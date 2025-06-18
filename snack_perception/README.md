@@ -21,10 +21,15 @@ YOLOv5와 gTTS를 활용하여 **실시간으로 과자를 인식하고 음성�
 | 기술 | 설명 |
 
 | Python 3.10 | 전체 구현 언어 |
+
 | YOLOv5 | 객체 탐지 모델 (best.pt로 커스텀 학습) |
+
 | OpenCV | 실시간 영상 처리 |
+
 | gTTS | 음성 출력 (Google Text-to-Speech) |
+
 | pygame | MP3 파일 재생 |
+
 | PyTorch | 모델 추론 |
 
 # ▶️ 실행 방법
@@ -41,11 +46,17 @@ pip install -r requirements.txt
 # 📁 프로젝트 구조
 
 Snack-Perception/
+
 ├── yolov5/               # YOLOv5 모델 코드 (git clone한 yolov5)
+
 ├── best.pt               # 커스텀 학습된 과자 인식 모델
+
 ├── snack_perception.py   # 메인 실행 파일
+
 ├── speak.py              # 텍스트를 음성으로 출력하는 모듈
+
 └── README.md             # 프로젝트 설명 문서
+
 (yolov5 디렉토리는 YOLOv5 공식 저장소를 클론해서 사용 - git clone https://github.com/ultralytics/yolov5.git)
 
 # 📷 실행 화면
