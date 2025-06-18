@@ -3,7 +3,7 @@ import torch
 import numpy as np
 import sys
 import pathlib
-from speak import speak  # speak.py의 speak 함수 임포트
+from .speak import speak # speak.py의 speak 함수 임포트
 
 pathlib.PosixPath = pathlib.WindowsPath
 
