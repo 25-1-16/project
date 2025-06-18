@@ -9,6 +9,7 @@ YOLOv5와 gTTS를 활용하여 **실시간으로 과자를 인식하고 음성�
 - 🔊 과자 이름을 한국어로 음성 안내 (gTTS 사용)
 - 🔁 같은 과자 반복 인식 방지
 - 🧠 confidence가 가장 높은 결과만 추출하여 정확도 향상
+- 키보드에서 q를 눌러 프로그램을 종료시킴
 
 # 💡 프로젝트 목적
 
@@ -31,3 +32,24 @@ YOLOv5와 gTTS를 활용하여 **실시간으로 과자를 인식하고 음성�
 `bash'
 python snack_perception.py
 
+# 📦 설치 방법
+- 필수 라이브러리 설치
+
+'bash'
+pip install -r requirements.txt
+
+# 📁 프로젝트 구조
+
+Snack-Perception/
+├── yolov5/               # YOLOv5 모델 코드 (git clone한 yolov5)
+├── best.pt               # 커스텀 학습된 과자 인식 모델
+├── snack_perception.py   # 메인 실행 파일
+├── speak.py              # 텍스트를 음성으로 출력하는 모듈
+└── README.md             # 프로젝트 설명 문서
+(yolov5 디렉토리는 YOLOv5 공식 저장소를 클론해서 사용 - git clone https://github.com/ultralytics/yolov5.git)
+
+# 📷 실행 화면
+
+과자가 인식 되면 '이 제품은 ~~ 입니다.'라는 음성 메세지가 출력됨
+
+# 
