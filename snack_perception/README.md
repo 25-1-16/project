@@ -39,7 +39,7 @@ YOLOv5와 gTTS를 활용하여 **실시간으로 과자를 인식하고 음성�
 python snack_perception.py
 
 # 📦 설치 방법
-- 필수 라이브러리 설치
+필수 라이브러리 일괄 설치
 
 (bash)
 
