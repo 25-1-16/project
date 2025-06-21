@@ -58,6 +58,6 @@ Training performed in Colab or local Jupyter environment
 
 📌 Notes
 
-The trained model file (best.pt) is not included in this folder
+The trained model file (*best.pt*) is not included in this folder
 
-The model is placed and used in `snack_perception/best.pt`
+The model is placed and used in *snack_perception/best.pt*
