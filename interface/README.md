@@ -63,7 +63,7 @@ along with the snack name and confidence score.
 
 ❌ How to Exit
 
-Press the 'q' key in the OpenCV window to end recognition.
+Press the `q` key in the OpenCV window to end recognition.
 
 <br>
 
