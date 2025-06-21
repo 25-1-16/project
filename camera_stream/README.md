@@ -1,4 +1,4 @@
-# Snack Recognition
+# 👁️ Snack Recognition
 
 **프로젝트는 Anaconda 가상환경에서 이루어졌습니다.**
 
@@ -11,6 +11,8 @@ YOLOv5 객체 탐지 모델을 사용하며, 각 간식 종류별로 신뢰도�
 이 코드는 시각장애인을 위한 과자 인식 시스템의 실시간 카메라 프레임 수집과 과자 종류 판별 기능을 담당합니다.
 
 <br>
+
+👁️ Snack Recognition
 
 This project was developed within an Anaconda virtual environment.
 
@@ -35,7 +37,7 @@ This code collects real-time camera frames and identifies snack types as part of
 
 <br/>
 
-Key Features
+📸 Key Features
 
 Receives real-time video from the built-in computer camera
 
