@@ -6,7 +6,7 @@ YOLOv5 + gTTS 기반 시각보조 서비스
 
 <br/>
 
-Snack Recognition Program for the Visually Impaired
+🍪 Snack Recognition Program for the Visually Impaired
 
 YOLOv5 + gTTS-Based Visual Assistance Service
 
@@ -27,7 +27,7 @@ An AI convenience store assistant that recognizes snacks using a camera and prov
 
 <br/>
 
-Team Introduction
+👨‍👩‍👧‍👦 Team Introduction
 
 This project was created as a team project for the Open Source Programming course at Sookmyung Women's University
 
@@ -45,7 +45,7 @@ This project was created as a team project for the Open Source Programming cours
 
 <br/>
 
-Project Topic
+🎯 Project Topic
 
 Snack recognition program for the visually impaired
 
@@ -85,7 +85,7 @@ Detects a variety of snack types using the YOLOv5 model
 - `MyTraining.ipynb`: YOLOv5를 활용한 과자 학습 코드
 - `dataset/`: 학습에 사용된 과자 이미지 및 라벨링 데이터
 - `best.pt`: 학습된 최종 모델 파일
-
+<br/>
 ---
 
 ## ✅ 주요 기능
@@ -96,7 +96,7 @@ Detects a variety of snack types using the YOLOv5 model
 
 <br/>
 
-Key Features
+✅ Key Features
 
 Snack detection: YOLOv5 detects snack types in real time
 
@@ -120,7 +120,7 @@ pip install -r requirements.txt
 
 <br/>
 
-How to Run
+🔧 How to Run
 
 1. install dependencies
 
