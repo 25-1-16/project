@@ -116,7 +116,7 @@ pip install -r requirements.txt
 ```
 ### 2. interface.py 실행하기
 
-### 3. 종료 시 q 누르기
+### 3. 종료 시 `q` 누르기
 
 <br/>
 
@@ -126,6 +126,6 @@ How to Run
 
 2. Run interface.py
 
-3. Press q to quit
+3. Press `q` to quit
 
 
