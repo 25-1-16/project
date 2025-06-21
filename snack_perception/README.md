@@ -72,6 +72,7 @@ It is implemented to provide direct feedback through voice guidance, not just si
 | PyTorch | 모델 추론 |
 
 <br>
+
 ---
 # ▶️ 실행 방법
 ```
@@ -80,6 +81,7 @@ python snack_perception.py
 ```
 
 <br>
+
 ---
 # 📦 설치 방법
 필수 라이브러리 일괄 설치
@@ -90,6 +92,7 @@ pip install -r requirements.txt
 ```
 
 <br>
+
 ---
 # 📁 프로젝트 구조
 
@@ -108,6 +111,7 @@ Snack-Perception/
 (yolov5 디렉토리는 YOLOv5 공식 저장소를 클론해서 사용 - git clone https://github.com/ultralytics/yolov5.git)
 
 <br>
+
 ---
 # 📷 실행 화면
 <img width="484" alt="과자 인식 실행 결과 예시" src="https://github.com/user-attachments/assets/507b263c-5724-4f6f-a795-042c462ce4ec" />
@@ -115,6 +119,7 @@ Snack-Perception/
 과자가 인식 되면 '이 제품은 ~~ 입니다.'라는 음성 메세지가 출력됨
 
 <br>
+
 ---
 # 📌 참고 사항
 - mp3 재생을 위해 pygame 사용 시 간헐적인 파일 접근 오류를 방지하기 위해 고유한 파일명(uuid)으로 저장하고 삭제합니다.
